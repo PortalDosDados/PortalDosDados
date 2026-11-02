@@ -137,15 +137,17 @@ Sou o criador do projeto e canal no YouTube "Portal dos Dados", onde compartilho
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=portaldosdados&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
+<p align="left">
+  <a href="https://www.youtube.com/@Portal_dos_Dados?sub_confirmation=1">
+    <img alt="YouTube Subscribers" title="Inscreva-se no canal" src="https://custom-icon-badges.demolab.com/badge/YouTube-Portal%20dos%20Dados-E05D44?style=for-the-badge&logo=video&logoColor=white&labelColor=CE4630" />
+  </a>
+  <a href="https://portaldosdados.github.io">
+    <img alt="Website Portfolio" title="Visite o Portfólio" src="https://custom-icon-badges.demolab.com/badge/Website-portaldosdados.github.io-E1AD0E?style=for-the-badge&logo=globe&logoColor=white&labelColor=C79600" />
+  </a>
+  <a href="https://github.com/portaldosdados?tab=repositories&sort=stargazers">
+    <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/portaldosdados?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+  </a>
+</p>
   <img 
     align="left" 
     alt="Linguagens Mais Utilizadas" 
