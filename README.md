@@ -2,7 +2,9 @@
 
 **`Especialista em Dados Industriais & Engenharia de Confiabilidade`**
 
-Sou Dione Nascimento, profissional de Fortaleza/CE com 15 anos de experiência na indústria, sendo 10 deles dedicados ao setor siderúrgico. Sou graduado em Análise e Desenvolvimento de Sistemas e graduando em Engenharia de Produção. Atuo na integração entre Engenharia de Manutenção e Análise de Dados, transformando registros de sistemas operacionais (SAP PM, MES, SGI) em soluções analíticas estratégicas para a redução de perdas, aumento de MTBF e governança de custos. Sou o criador do projeto e canal no YouTube "Portal dos Dados", onde compartilho aplicações práticas de Power BI industrial, Python, automação e engenharia de confiabilidade de ativos.
+Sou Dione Nascimento, profissional de Fortaleza/CE com 15 anos de experiência na indústria, sendo 10 deles dedicados ao setor siderúrgico. Graduado em Análise e Desenvolvimento de Sistemas e graduando em Engenharia de Produção, atuo na integração entre Engenharia de Manutenção e Análise de Dados, transformando registros de sistemas operacionais (SAP PM, MES, SGI) em soluções analíticas estratégicas para a redução de perdas, aumento de MTBF e governança de custos. 
+
+Sou o criador do projeto e canal no YouTube "Portal dos Dados", onde compartilho aplicações práticas de Power BI industrial, Python, automação e engenharia de confiabilidade de ativos.
 
 <p align="left">
   <a href="https://www.youtube.com/@Portal_dos_Dados?sub_confirmation=1">
