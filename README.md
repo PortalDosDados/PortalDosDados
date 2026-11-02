@@ -113,14 +113,6 @@ Chamo-me Dione Nascimento, resido em Fortaleza/CE e conto com mais de 15 anos de
 />
 <img 
   align="left" 
-  alt="Docker" 
-  title="Docker" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-  align="left" 
   alt="Power BI" 
   title="Microsoft Power BI" 
   width="30px" 
