@@ -16,6 +16,15 @@ Profissional com 15 anos de experiência na indústria, sendo 10 anos dedicados 
 
 ---
 
+### 📈 Analytics do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PortalDosDados&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&icon_color=10b981&text_color=c9d1d9" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortalDosDados&layout=compact&theme=transparent&hide_border=true&title_color=10b981&text_color=c9d1d9" height="150" alt="Linguagens mais usadas"/>
+</div>
+
+---
+
 ### 📊 Métricas & Indicadores de Carreira
 
 | Indicador | Volume / Métrica | Foco Operacional |
