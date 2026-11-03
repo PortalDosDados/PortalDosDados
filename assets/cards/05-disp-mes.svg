@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 534" width="100%" height="100%">
+  <defs>
+    <clipPath id="cardClip">
+      <rect x="1" y="1" width="598" height="532" rx="10"/>
+    </clipPath>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#ffffff" stroke-width="0.4" stroke-opacity="0.03"/>
+    </pattern>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="598" height="532" rx="10" fill="#191f2f" stroke="#3c494c" stroke-width="1.5"/>
+  <rect x="1" y="1" width="598" height="532" rx="10" fill="url(#grid)"/>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Top Header Bar -->
+    <rect x="0" y="0" width="600" height="44" fill="#242a3a"/>
+    <line x1="0" y1="44" x2="600" y2="44" stroke="#3c494c" stroke-width="1"/>
+
+    <!-- Icon + REF -->
+    <g transform="translate(18, 14)">
+      <path d="M8 2a6 6 0 100 12A6 6 0 008 2zm0 10.5a4.5 4.5 0 110-9 4.5 4.5 0 010 9zm.5-7.5H7v3.5l3 1.8.75-1.23-2.25-1.32V5z" fill="#8aebff"/>
+    </g>
+    <text x="40" y="26" fill="#8aebff" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="0.6">REF // 005-DISP-MES</text>
+
+    <!-- Tech Badge -->
+    <rect x="436" y="11" width="142" height="22" rx="4" fill="#080e1d" stroke="#2a6f56" stroke-width="1"/>
+    <text x="507" y="25.5" text-anchor="middle" fill="#68f5b8" font-family="JetBrains Mono, Consolas, monospace" font-size="9.2" font-weight="600" letter-spacing="0.3">PYTHON • MES • EXCEL</text>
+
+    <!-- Title -->
+    <text x="22" y="76" fill="#dde2f8" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="20" font-weight="700">Aplicativo para Cálculo da Disponibilidade</text>
+    <text x="22" y="102" fill="#dde2f8" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="20" font-weight="700">dos Equipamentos — ArcelorMittal</text>
+
+    <!-- Problema Operacional Box -->
+    <rect x="22" y="122" width="556" height="96" rx="6" fill="#080e1d" fill-opacity="0.85"/>
+    <rect x="22" y="122" width="3.5" height="96" rx="1.5" fill="#ec6a06"/>
+    <text x="38" y="143" fill="#ffb690" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="0.8">PROBLEMA OPERACIONAL</text>
+    <text x="38" y="166" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">Extração e tratamento manual recorrente de dados operacionais brutos</text>
+    <text x="38" y="185" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">do sistema MES para cálculo da disponibilidade dos equipamentos,</text>
+    <text x="38" y="204" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">gerando lentidão e sobrecarga operacional.</text>
+
+    <!-- Solução de Engenharia Box -->
+    <rect x="22" y="232" width="556" height="118" rx="6" fill="#080e1d" fill-opacity="0.85"/>
+    <rect x="22" y="232" width="3.5" height="118" rx="1.5" fill="#8aebff"/>
+    <text x="38" y="253" fill="#8aebff" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="0.8">SOLUÇÃO DE ENGENHARIA</text>
+    <text x="38" y="276" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">Desenvolvimento de pipeline automatizado para extração e tratamento</text>
+    <text x="38" y="295" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">dos dados do sistema MES, com interface operacional ágil em Python</text>
+    <text x="38" y="314" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">e relatórios com visualização em tela e exportação para Excel.</text>
+
+    <!-- Metrics Section -->
+    <text x="22" y="378" fill="#859397" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.8">MÉTRICAS OPERACIONAIS VERIFICADAS //</text>
+    
+    <g>
+      <rect x="22" y="394" width="180" height="72" rx="6" fill="#242a3a" stroke="#3c494c" stroke-width="1"/>
+      <text x="112" y="426" text-anchor="middle" fill="#68f5b8" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">−10 hrs</text>
+      <text x="112" y="448" text-anchor="middle" fill="#bbc9cd" font-family="JetBrains Mono, Consolas, monospace" font-size="9.2" letter-spacing="0.5">POUPADAS / MÊS</text>
+    </g>
+
+    <g>
+      <rect x="210" y="394" width="180" height="72" rx="6" fill="#242a3a" stroke="#3c494c" stroke-width="1"/>
+      <text x="300" y="426" text-anchor="middle" fill="#8aebff" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">MES Direto</text>
+      <text x="300" y="448" text-anchor="middle" fill="#bbc9cd" font-family="JetBrains Mono, Consolas, monospace" font-size="9.2" letter-spacing="0.5">CÁLCULO RÁPIDO</text>
+    </g>
+
+    <g>
+      <rect x="398" y="394" width="180" height="72" rx="6" fill="#242a3a" stroke="#3c494c" stroke-width="1"/>
+      <text x="488" y="426" text-anchor="middle" fill="#dde2f8" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">Excel/UI</text>
+      <text x="488" y="448" text-anchor="middle" fill="#bbc9cd" font-family="JetBrains Mono, Consolas, monospace" font-size="9.2" letter-spacing="0.5">EXPORTAÇÃO PADRONIZADA</text>
+    </g>
+
+    <!-- Footer Bar -->
+    <rect x="0" y="486" width="600" height="48" fill="#151b2b"/>
+    <line x1="0" y1="486" x2="600" y2="486" stroke="#3c494c" stroke-width="1"/>
+    <text x="22" y="514" fill="#859397" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.6">STATUS: OPERACIONALIZADO</text>
+    <text x="578" y="514" text-anchor="end" fill="#8aebff" font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="600">Conversar sobre a solução →</text>
+  </g>
+</svg>

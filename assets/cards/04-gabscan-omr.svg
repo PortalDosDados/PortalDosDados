@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 534" width="100%" height="100%">
+  <defs>
+    <clipPath id="cardClip">
+      <rect x="1" y="1" width="598" height="532" rx="10"/>
+    </clipPath>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#ffffff" stroke-width="0.4" stroke-opacity="0.03"/>
+    </pattern>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="598" height="532" rx="10" fill="#191f2f" stroke="#3c494c" stroke-width="1.5"/>
+  <rect x="1" y="1" width="598" height="532" rx="10" fill="url(#grid)"/>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Top Header Bar -->
+    <rect x="0" y="0" width="600" height="44" fill="#242a3a"/>
+    <line x1="0" y1="44" x2="600" y2="44" stroke="#3c494c" stroke-width="1"/>
+
+    <!-- Icon + REF -->
+    <g transform="translate(18, 14)">
+      <path d="M2 4V2h3v1.5H3.5V4H2zm9-2h3v2h-1.5v-.5H11V2zM2 10h1.5v.5H5V12H2v-2zm10.5.5V10H14v2h-3v-1.5h1.5zM4 5h8v1.5H4V5zm0 3h8v1.5H4V8z" fill="#8aebff"/>
+    </g>
+    <text x="40" y="26" fill="#8aebff" font-family="JetBrains Mono, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="0.6">REF // 004-GABSCAN-OMR</text>
+
+    <!-- Tech Badge -->
+    <rect x="243.8" y="11" width="334.2" height="22" rx="4" fill="#080e1d" stroke="#7a4424" stroke-width="1"/>
+    <text x="410.9" y="25.5" text-anchor="middle" fill="#ffdbca" font-family="JetBrains Mono, Consolas, monospace" font-size="9.2" font-weight="600" letter-spacing="0.3">FLUTTER • DART • ML KIT • VISÃO COMPUTACIONAL • TDD</text>
+
+    <!-- Title -->
+    <text x="22" y="76" fill="#dde2f8" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="20" font-weight="700">GabScan — Corretor Inteligente de Provas</text>
+    <text x="22" y="102" fill="#dde2f8" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="20" font-weight="700">OMR (100% Offline-First)</text>
+
+    <!-- Problema Operacional Box -->
+    <rect x="22" y="122" width="556" height="96" rx="6" fill="#080e1d" fill-opacity="0.85"/>
+    <rect x="22" y="122" width="3.5" height="96" rx="1.5" fill="#ec6a06"/>
+    <text x="38" y="143" fill="#ffb690" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="0.8">PROBLEMA OPERACIONAL</text>
+    <text x="38" y="166" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">Dependência de leitoras ópticas físicas caras e horas de correção</text>
+    <text x="38" y="185" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">manual de gabaritos no setor educacional, vulneráveis a falhas</text>
+    <text x="38" y="204" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">humanas e atrasos.</text>
+
+    <!-- Solução de Engenharia Box -->
+    <rect x="22" y="232" width="556" height="118" rx="6" fill="#080e1d" fill-opacity="0.85"/>
+    <rect x="22" y="232" width="3.5" height="118" rx="1.5" fill="#8aebff"/>
+    <text x="38" y="253" fill="#8aebff" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="0.8">SOLUÇÃO DE ENGENHARIA</text>
+    <text x="38" y="276" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">Aplicativo móvel que transforma o celular em scanner OMR em tempo</text>
+    <text x="38" y="295" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">real com custo zero de nuvem. Pipeline matemático com homografia</text>
+    <text x="38" y="314" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">3×3, binarização de Otsu, paralelismo com Isolates e OCR On-Device</text>
+    <text x="38" y="333" fill="#bbc9cd" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="13">via Google ML Kit.</text>
+
+    <!-- Metrics Section -->
+    <text x="22" y="378" fill="#859397" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.8">MÉTRICAS OPERACIONAIS VERIFICADAS //</text>
+    
+    <g>
+      <rect x="22" y="394" width="180" height="72" rx="6" fill="#242a3a" stroke="#3c494c" stroke-width="1"/>
+      <text x="112" y="426" text-anchor="middle" fill="#68f5b8" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">100%</text>
+      <text x="112" y="448" text-anchor="middle" fill="#bbc9cd" font-family="JetBrains Mono, Consolas, monospace" font-size="9.2" letter-spacing="0.5">OFFLINE-FIRST</text>
+    </g>
+
+    <g>
+      <rect x="210" y="394" width="180" height="72" rx="6" fill="#242a3a" stroke="#3c494c" stroke-width="1"/>
+      <text x="300" y="426" text-anchor="middle" fill="#8aebff" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">86 Testes</text>
+      <text x="300" y="448" text-anchor="middle" fill="#bbc9cd" font-family="JetBrains Mono, Consolas, monospace" font-size="9.2" letter-spacing="0.5">CI/CD ACTIONS</text>
+    </g>
+
+    <g>
+      <rect x="398" y="394" width="180" height="72" rx="6" fill="#242a3a" stroke="#3c494c" stroke-width="1"/>
+      <text x="488" y="426" text-anchor="middle" fill="#dde2f8" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">0ms Lag</text>
+      <text x="488" y="448" text-anchor="middle" fill="#bbc9cd" font-family="JetBrains Mono, Consolas, monospace" font-size="9.2" letter-spacing="0.5">DART ISOLATES</text>
+    </g>
+
+    <!-- Footer Bar -->
+    <rect x="0" y="486" width="600" height="48" fill="#151b2b"/>
+    <line x1="0" y1="486" x2="600" y2="486" stroke="#3c494c" stroke-width="1"/>
+    <text x="22" y="514" fill="#859397" font-family="JetBrains Mono, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="0.6">STATUS: SITE OFICIAL NO AR</text>
+    <text x="578" y="514" text-anchor="end" fill="#8aebff" font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="600">Acessar gabscan.com.br ↗</text>
+  </g>
+</svg>

@@ -23,140 +23,84 @@ Sou o criador do projeto e canal no YouTube **[Portal dos Dados](https://www.you
 
 ---
 
-### 📊 Métricas & Indicadores de Carreira
+### 📊 Telemetria & Indicadores de Carreira
 
-| Indicador | Volume / Métrica | Foco Operacional |
-| :--- | :--- | :--- |
-| **Experiência Industrial** | 15+ anos | Gestão de Indicadores, Operação e Projetos |
-| **Setor Siderúrgico** | 10 anos | Confiabilidade, Planejamento e Inspeção (CSP / ArcelorMittal) |
-| **Business Intelligence** | 5+ anos | Modelagem Dimensional, DAX Avançado e Governança |
-| **Automações / ETL** | 10+ automações | Python, SQL, Pentaho e Power Platform |
-| **Impacto & ROI** | 5+ projetos core | Reduções de até 10h/mês de retrabalho por rotina |
-
----
-
-### 🛠️ Stack Tecnológica & Competências
-
-```text
-Sistemas Operacionais & TO ────► ETL & Pipelines ────► BI & Visualização ────► Tomada de Decisão
-[SAP PM, MES, SGI, Sensores]     [Python, SQL, PDI]    [Power BI, DAX, Apps]   [MTBF, MTTR, Disponibilidade]
-```
-
-#### Ecossistema & Ferramentas
-- **Linguagens & Dados:** `Python` (Pandas, NumPy, Polars), `SQL` (PostgreSQL, SQL Server, Supabase), `Dart / Flutter`
-- **Business Intelligence:** `Power BI`, `DAX Avançado`, `Power Query (M)`, `Modelagem Dimensional (Star Schema)`
-- **Sistemas Industriais (TO/TI):** `SAP PM`, `MES`, `SGI`, `Gestão de Ativos`, `Confiabilidade (RCM, FMEA, Curva S, ISO 8601)`
-- **Automação & Cloud:** `Git / GitHub`, `GitHub Actions`, `Docker`, `Pentaho Data Integration (PDI)`, `APIs REST`
+<p align="center">
+  <a href="https://portaldosdados.github.io">
+    <img src="./assets/cards/telemetria-carreira.svg" alt="Métricas e Indicadores de Carreira" width="100%" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 Projetos & Soluções em Destaque
 
-#### 📈 `REF // 001-CUSTOS-AVINE` · Dashboard de Custos de Manutenção — Avine
-`POWER BI` • `MYSQL` • `EXCEL` &nbsp;|&nbsp; **Status:** `Consultoria Ativa`
+<p align="center">
+  <a href="https://portaldosdados.github.io/#projetos">
+    <img src="./assets/cards/01-custos-avine.svg" alt="Dashboard de Custos de Manutenção — Avine" width="49%" />
+  </a>
+  <a href="https://portaldosdados.github.io/#projetos">
+    <img src="./assets/cards/02-portal-am.svg" alt="Portal de Indicadores de Manutenção — ArcelorMittal" width="49%" />
+  </a>
+</p>
 
-> **Problema Operacional:**  
-> Projeto de BI interrompido com dados descentralizados e bases espalhadas entre MySQL e planilhas Excel manuais sem governança.  
->  
-> **Solução de Engenharia:**  
-> Mapeamento e saneamento das bases, consolidação das regras de negócio e migração para MySQL como fonte centralizada, eliminando planilhas manuais.
+<p align="center">
+  <a href="https://portaldosdados.github.io/#projetos">
+    <img src="./assets/cards/03-pm-mobit.svg" alt="Aplicativo Mobile para Gestão de Manutenção em Campo (PM Mobit)" width="49%" />
+  </a>
+  <a href="https://gabscan.com.br">
+    <img src="./assets/cards/04-gabscan-omr.svg" alt="GabScan — Corretor Inteligente de Provas OMR" width="49%" />
+  </a>
+</p>
 
-| 🎯 +Confiança | 🗄️ 100% | ⚡ Ágil |
-| :---: | :---: | :---: |
-| *Métricas Precisas* | *Base Centralizada* | *Ciclo de Relatório* |
-
----
-
-#### 🏭 `REF // 002-PORTAL-AM` · Portal de Indicadores de Manutenção — ArcelorMittal
-`POWER BI` • `SAP PM` • `MES` • `SGI` &nbsp;|&nbsp; **Status:** `Produção Corporativa`
-
-> **Problema Operacional:**  
-> Indicadores multi-origem complexos dispersos em sistemas industriais legados (SAP, MES e SGI), demandando relatórios manuais e com baixa governança.  
->  
-> **Solução de Engenharia:**  
-> Padronização, modelagem dimensional e publicação de dashboards executivos em Power BI integrados diretamente para as reuniões diárias da liderança.
-
-| 🔗 SAP/MES | 📊 1 Painel | ⏱️ Diário |
-| :---: | :---: | :---: |
-| *Integração Total* | *Visão Unificada* | *Decisão em Tempo Hábil* |
-
----
-
-#### 📱 `REF // 003-PM-MOBIT` · Aplicativo Mobile para Gestão de Manutenção em Campo (PM Mobit)
-`FLUTTER` • `DART` • `SUPABASE` • `POSTGRESQL` &nbsp;|&nbsp; **Status:** `Implantado & Operacional`
-
-> **Problema Operacional:**  
-> Rotinas de inspeção de equipamentos críticos e apontamentos em campo realizados manualmente em papel, gerando baixa rastreabilidade, lentidão e atrasos no controle de SLA.  
->  
-> **Solução de Engenharia:**  
-> Desenvolvimento de aplicação móvel corporativa em Flutter e Dart integrada ao Supabase (Auth, Database e Storage). Digitalização de checklists com evidências fotográficas, abertura automática de ordens corretivas ao detectar não conformidades, controle rigoroso de SLA e dashboard analítico de produtividade e indicadores operacionais em tempo real.
-
-| 📱 100% | ⚡ Auto | 🛡️ SLA & KPIs |
-| :---: | :---: | :---: |
-| *Fluxo Digital & Fotos* | *Disparo de Corretivas* | *Auditoria em Tempo Real* |
+<p align="center">
+  <a href="https://portaldosdados.github.io/#projetos">
+    <img src="./assets/cards/05-disp-mes.svg" alt="Aplicativo para Cálculo da Disponibilidade dos Equipamentos — ArcelorMittal" width="49%" />
+  </a>
+  <a href="https://portaldosdados.github.io/#projetos">
+    <img src="./assets/cards/06-contabil-am.svg" alt="Automação em Python para Inconsistências Contábeis — ArcelorMittal" width="49%" />
+  </a>
+</p>
 
 ---
 
-#### 🔍 `REF // 004-GABSCAN-OMR` · GabScan — Corretor Inteligente de Provas OMR (100% Offline-First)
-`FLUTTER` • `DART` • `ML KIT` • `VISÃO COMPUTACIONAL` • `TDD` &nbsp;|&nbsp; **Status:** `Site Oficial no Ar` ([gabscan.com.br](https://gabscan.com.br))
+### 🛠️ Stack Tecnológica & Arquitetura de Dados
 
-> **Problema Operacional:**  
-> Dependência de leitoras ópticas físicas caras e horas de correção manual de gabaritos no setor educacional, vulneráveis a falhas humanas e atrasos.  
->  
-> **Solução de Engenharia:**  
-> Aplicativo móvel que transforma o celular em scanner OMR em tempo real com custo zero de nuvem. Pipeline matemático com homografia 3×3, binarização de Otsu, paralelismo com Isolates e OCR On-Device via Google ML Kit.
+<p align="center">
+  <a href="https://portaldosdados.github.io/#habilidades">
+    <img src="./assets/cards/stack-arquitetura.svg" alt="Stack Tecnológica e Arquitetura de Dados" width="100%" />
+  </a>
+</p>
 
-| 📴 100% | 🧪 86 Testes | ⚡ 0ms Lag |
-| :---: | :---: | :---: |
-| *Offline-First* | *CI/CD Actions* | *Dart Isolates* |
-
----
-
-#### ⏱️ `REF // 005-DISP-MES` · Aplicativo para Cálculo da Disponibilidade dos Equipamentos — ArcelorMittal
-`PYTHON` • `MES` • `EXCEL` &nbsp;|&nbsp; **Status:** `Operacionalizado`
-
-> **Problema Operacional:**  
-> Extração e tratamento manual recorrente de dados operacionais brutos do sistema MES para cálculo da disponibilidade dos equipamentos, gerando lentidão e sobrecarga operacional.  
->  
-> **Solução de Engenharia:**  
-> Desenvolvimento de pipeline automatizado para extração e tratamento dos dados do sistema MES, com interface operacional ágil em Python e relatórios com visualização em tela e exportação para Excel.
-
-| ⏳ -10 hrs | 🔌 MES Direto | 📑 Excel/UI |
-| :---: | :---: | :---: |
-| *Poupadas / Mês* | *Cálculo Rápido* | *Exportação Padronizada* |
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-191f2f?style=for-the-badge&logo=python&logoColor=8aebff" alt="Python" />
+  <img src="https://img.shields.io/badge/Power_BI-191f2f?style=for-the-badge&logo=powerbi&logoColor=f2c811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL_/_PostgreSQL-191f2f?style=for-the-badge&logo=postgresql&logoColor=8aebff" alt="SQL" />
+  <img src="https://img.shields.io/badge/Flutter-191f2f?style=for-the-badge&logo=flutter&logoColor=8aebff" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-191f2f?style=for-the-badge&logo=dart&logoColor=68f5b8" alt="Dart" />
+  <img src="https://img.shields.io/badge/Supabase-191f2f?style=for-the-badge&logo=supabase&logoColor=68f5b8" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SAP_PM_&_MES-191f2f?style=for-the-badge&logo=sap&logoColor=ffb690" alt="SAP PM" />
+  <img src="https://img.shields.io/badge/Pandas-191f2f?style=for-the-badge&logo=pandas&logoColor=8aebff" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Git_&_CI/CD-191f2f?style=for-the-badge&logo=githubactions&logoColor=68f5b8" alt="GitHub Actions" />
+</p>
 
 ---
 
-#### 📑 `REF // 006-CONTABIL-AM` · Automação em Python para Inconsistências Contábeis — ArcelorMittal
-`PYTHON` • `PANDAS` • `EXCEL` • `REGRAS` &nbsp;|&nbsp; **Status:** `Auditoria Automática`
-
-> **Problema Operacional:**  
-> Integração e conferência manual de dados entre múltiplas planilhas Excel, com alto risco de classificações incorretas entre custos fixos e variáveis.  
->  
-> **Solução de Engenharia:**  
-> Desenvolvimento de script em Python integrando dados de múltiplas planilhas, com tratamento, padronização, transformação e regras automáticas de validação contábil para relatórios gerenciais.
-
-| ⏳ -4 hrs | 🔍 100% | 🎯 Precisão |
-| :---: | :---: | :---: |
-| *Poupadas / Mês* | *Dados Auditados* | *Custo Fixo/Variável* |
-
----
-
-### 📊 Estatísticas
+### 📈 Estatísticas do GitHub
 
 <p align="left">
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="185" 
     style="padding-right: 15px;" 
-    src="https://github-readme-stats-fast.vercel.app/api?username=PortalDosDados&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=PortalDosDados&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&bg_color=191f2f&border_color=3c494c&title_color=8aebff&icon_color=68f5b8&text_color=dde2f8" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PortalDosDados&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    height="185" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PortalDosDados&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&bg_color=191f2f&border_color=3c494c&title_color=8aebff&text_color=dde2f8" 
   />
 </p>
 <br clear="both"/>
@@ -176,6 +120,6 @@ Sistemas Operacionais & TO ────► ETL & Pipelines ────► BI & 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://portaldosdados.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-101010?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfólio_Web-191f2f?style=for-the-badge&logo=googlechrome&logoColor=8aebff" alt="Website" />
   </a>
 </p>
