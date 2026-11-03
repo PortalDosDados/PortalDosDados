@@ -52,9 +52,93 @@ Sistemas Operacionais & TO ────► ETL & Pipelines ────► BI & 
 
 ### 🚀 Projetos & Soluções em Destaque
 
-- 🌐 **[Portal dos Dados (Portfólio & Ferramentas Industriais)](https://portaldosdados.github.io)** — Suíte de ferramentas analíticas interativas (Calculadora 52 Semanas ISO 8601, Controle de Paradas, Curva S EVM, Matriz FMEA).
-- 📱 **[PM Mobit](https://github.com/PortalDosDados/app_mobit)** — Aplicação mobile corporativa para apontamento e gestão operacional de ativos com sincronização em nuvem via Supabase.
-- ⚙️ **Automações de Confiabilidade & ETL** — Pipelines em Python e SQL para extração automatizada de ordens/notas SAP PM e cálculo dinâmico de MTBF/MTTR.
+#### 📈 `REF // 001-CUSTOS-AVINE` · Dashboard de Custos de Manutenção — Avine
+`POWER BI` • `MYSQL` • `EXCEL` &nbsp;|&nbsp; **Status:** `Consultoria Ativa`
+
+> **Problema Operacional:**  
+> Projeto de BI interrompido com dados descentralizados e bases espalhadas entre MySQL e planilhas Excel manuais sem governança.  
+>  
+> **Solução de Engenharia:**  
+> Mapeamento e saneamento das bases, consolidação das regras de negócio e migração para MySQL como fonte centralizada, eliminando planilhas manuais.
+
+| 🎯 +Confiança | 🗄️ 100% | ⚡ Ágil |
+| :---: | :---: | :---: |
+| *Métricas Precisas* | *Base Centralizada* | *Ciclo de Relatório* |
+
+---
+
+#### 🏭 `REF // 002-PORTAL-AM` · Portal de Indicadores de Manutenção — ArcelorMittal
+`POWER BI` • `SAP PM` • `MES` • `SGI` &nbsp;|&nbsp; **Status:** `Produção Corporativa`
+
+> **Problema Operacional:**  
+> Indicadores multi-origem complexos dispersos em sistemas industriais legados (SAP, MES e SGI), demandando relatórios manuais e com baixa governança.  
+>  
+> **Solução de Engenharia:**  
+> Padronização, modelagem dimensional e publicação de dashboards executivos em Power BI integrados diretamente para as reuniões diárias da liderança.
+
+| 🔗 SAP/MES | 📊 1 Painel | ⏱️ Diário |
+| :---: | :---: | :---: |
+| *Integração Total* | *Visão Unificada* | *Decisão em Tempo Hábil* |
+
+---
+
+#### 📱 `REF // 003-PM-MOBIT` · Aplicativo Mobile para Gestão de Manutenção em Campo (PM Mobit)
+`FLUTTER` • `DART` • `SUPABASE` • `POSTGRESQL` &nbsp;|&nbsp; **Status:** `Implantado & Operacional`
+
+> **Problema Operacional:**  
+> Rotinas de inspeção de equipamentos críticos e apontamentos em campo realizados manualmente em papel, gerando baixa rastreabilidade, lentidão e atrasos no controle de SLA.  
+>  
+> **Solução de Engenharia:**  
+> Desenvolvimento de aplicação móvel corporativa em Flutter e Dart integrada ao Supabase (Auth, Database e Storage). Digitalização de checklists com evidências fotográficas, abertura automática de ordens corretivas ao detectar não conformidades, controle rigoroso de SLA e dashboard analítico de produtividade e indicadores operacionais em tempo real.
+
+| 📱 100% | ⚡ Auto | 🛡️ SLA & KPIs |
+| :---: | :---: | :---: |
+| *Fluxo Digital & Fotos* | *Disparo de Corretivas* | *Auditoria em Tempo Real* |
+
+---
+
+#### 🔍 `REF // 004-GABSCAN-OMR` · GabScan — Corretor Inteligente de Provas OMR (100% Offline-First)
+`FLUTTER` • `DART` • `ML KIT` • `VISÃO COMPUTACIONAL` • `TDD` &nbsp;|&nbsp; **Status:** `Site Oficial no Ar` ([gabscan.com.br](https://gabscan.com.br))
+
+> **Problema Operacional:**  
+> Dependência de leitoras ópticas físicas caras e horas de correção manual de gabaritos no setor educacional, vulneráveis a falhas humanas e atrasos.  
+>  
+> **Solução de Engenharia:**  
+> Aplicativo móvel que transforma o celular em scanner OMR em tempo real com custo zero de nuvem. Pipeline matemático com homografia 3×3, binarização de Otsu, paralelismo com Isolates e OCR On-Device via Google ML Kit.
+
+| 📴 100% | 🧪 86 Testes | ⚡ 0ms Lag |
+| :---: | :---: | :---: |
+| *Offline-First* | *CI/CD Actions* | *Dart Isolates* |
+
+---
+
+#### ⏱️ `REF // 005-DISP-MES` · Aplicativo para Cálculo da Disponibilidade dos Equipamentos — ArcelorMittal
+`PYTHON` • `MES` • `EXCEL` &nbsp;|&nbsp; **Status:** `Operacionalizado`
+
+> **Problema Operacional:**  
+> Extração e tratamento manual recorrente de dados operacionais brutos do sistema MES para cálculo da disponibilidade dos equipamentos, gerando lentidão e sobrecarga operacional.  
+>  
+> **Solução de Engenharia:**  
+> Desenvolvimento de pipeline automatizado para extração e tratamento dos dados do sistema MES, com interface operacional ágil em Python e relatórios com visualização em tela e exportação para Excel.
+
+| ⏳ -10 hrs | 🔌 MES Direto | 📑 Excel/UI |
+| :---: | :---: | :---: |
+| *Poupadas / Mês* | *Cálculo Rápido* | *Exportação Padronizada* |
+
+---
+
+#### 📑 `REF // 006-CONTABIL-AM` · Automação em Python para Inconsistências Contábeis — ArcelorMittal
+`PYTHON` • `PANDAS` • `EXCEL` • `REGRAS` &nbsp;|&nbsp; **Status:** `Auditoria Automática`
+
+> **Problema Operacional:**  
+> Integração e conferência manual de dados entre múltiplas planilhas Excel, com alto risco de classificações incorretas entre custos fixos e variáveis.  
+>  
+> **Solução de Engenharia:**  
+> Desenvolvimento de script em Python integrando dados de múltiplas planilhas, com tratamento, padronização, transformação e regras automáticas de validação contábil para relatórios gerenciais.
+
+| ⏳ -4 hrs | 🔍 100% | 🎯 Precisão |
+| :---: | :---: | :---: |
+| *Poupadas / Mês* | *Dados Auditados* | *Custo Fixo/Variável* |
 
 ---
 
