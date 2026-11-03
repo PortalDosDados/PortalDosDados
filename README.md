@@ -66,13 +66,13 @@ Sistemas Operacionais & TO ────► ETL & Pipelines ────► BI & 
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 15px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PortalDosDados&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=PortalDosDados&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PortalDosDados&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PortalDosDados&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
 <br clear="both"/>
