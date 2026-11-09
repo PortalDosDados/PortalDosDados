@@ -23,47 +23,6 @@ Sou o criador do projeto e canal no YouTube **[Portal dos Dados](https://www.you
 
 ---
 
-### 📊 Telemetria & Indicadores de Carreira
-
-<p align="center">
-  <a href="https://portaldosdados.github.io">
-    <img src="./assets/cards/telemetria-carreira.svg" alt="Métricas e Indicadores de Carreira" width="100%" />
-  </a>
-</p>
-
----
-
-### 🚀 Projetos & Soluções em Destaque
-
-<p align="center">
-  <a href="https://portaldosdados.github.io/#projetos">
-    <img src="./assets/cards/01-custos-avine.svg" alt="Dashboard de Custos de Manutenção — Avine" width="49%" />
-  </a>
-  <a href="https://portaldosdados.github.io/#projetos">
-    <img src="./assets/cards/02-portal-am.svg" alt="Portal de Indicadores de Manutenção — ArcelorMittal" width="49%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://portaldosdados.github.io/#projetos">
-    <img src="./assets/cards/03-pm-mobit.svg" alt="Aplicativo Mobile para Gestão de Manutenção em Campo (PM Mobit)" width="49%" />
-  </a>
-  <a href="https://gabscan.com.br">
-    <img src="./assets/cards/04-gabscan-omr.svg" alt="GabScan — Corretor Inteligente de Provas OMR" width="49%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://portaldosdados.github.io/#projetos">
-    <img src="./assets/cards/05-disp-mes.svg" alt="Aplicativo para Cálculo da Disponibilidade dos Equipamentos — ArcelorMittal" width="49%" />
-  </a>
-  <a href="https://portaldosdados.github.io/#projetos">
-    <img src="./assets/cards/06-contabil-am.svg" alt="Automação em Python para Inconsistências Contábeis — ArcelorMittal" width="49%" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Stack Tecnológica & Arquitetura de Dados
 
 <p align="center">
@@ -144,6 +103,47 @@ Sou o criador do projeto e canal no YouTube **[Portal dos Dados](https://www.you
 - 🟢 **Engenharia de Produção:** Gestão de operações, controle estatístico de processo e otimização de fluxo de valor.
 - 🎯 **Próximo Marco:** Preparação para certificação profissional em confiabilidade (CMRP / CRE).
 </details>
+
+---
+
+### 📊 Telemetria & Indicadores de Carreira
+
+<p align="center">
+  <a href="https://portaldosdados.github.io">
+    <img src="./assets/cards/telemetria-carreira.svg" alt="Métricas e Indicadores de Carreira" width="100%" />
+  </a>
+</p>
+
+---
+
+### 🚀 Projetos & Soluções em Destaque
+
+<p align="center">
+  <a href="https://portaldosdados.github.io/#projetos">
+    <img src="./assets/cards/01-custos-avine.svg" alt="Dashboard de Custos de Manutenção — Avine" width="49%" />
+  </a>
+  <a href="https://portaldosdados.github.io/#projetos">
+    <img src="./assets/cards/02-portal-am.svg" alt="Portal de Indicadores de Manutenção — ArcelorMittal" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portaldosdados.github.io/#projetos">
+    <img src="./assets/cards/03-pm-mobit.svg" alt="Aplicativo Mobile para Gestão de Manutenção em Campo (PM Mobit)" width="49%" />
+  </a>
+  <a href="https://gabscan.com.br">
+    <img src="./assets/cards/04-gabscan-omr.svg" alt="GabScan — Corretor Inteligente de Provas OMR" width="49%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portaldosdados.github.io/#projetos">
+    <img src="./assets/cards/05-disp-mes.svg" alt="Aplicativo para Cálculo da Disponibilidade dos Equipamentos — ArcelorMittal" width="49%" />
+  </a>
+  <a href="https://portaldosdados.github.io/#projetos">
+    <img src="./assets/cards/06-contabil-am.svg" alt="Automação em Python para Inconsistências Contábeis — ArcelorMittal" width="49%" />
+  </a>
+</p>
 
 ---
 
