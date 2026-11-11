@@ -1,4 +1,4 @@
-# Dione Nascimento | Especialista em Dados Industriais & Engenharia de Confiabilidade
+# Dione Nascimento | Instrutor do SENAI
 
 ![Status](https://img.shields.io/badge/STATUS-DISPONÍVEL_PARA_PROJETOS_&_CONSULTORIA-success?style=for-the-badge)
 ![Localização](https://img.shields.io/badge/LOCALIZAÇÃO-FORTALEZA_--_CE,_BRASIL-blue?style=for-the-badge)
