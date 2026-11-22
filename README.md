@@ -1,9 +1,4 @@
 # Dione Nascimento
-![Status](https://img.shields.io/badge/STATUS-DISPONÍVEL_PARA_PROJETOS_&_CONSULTORIA-success?style=for-the-badge)
-![Localização](https://img.shields.io/badge/LOCALIZAÇÃO-FORTALEZA_--_CE,_BRASIL-blue?style=for-the-badge)
-![Foco](https://img.shields.io/badge/FOCO-DADOS_&_ENGENHARIA_INDUSTRIAL-orange?style=for-the-badge)
-
----
 
 ### 📌 Sobre Mim
 
